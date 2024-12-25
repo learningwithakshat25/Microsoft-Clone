@@ -6,7 +6,7 @@ import img4 from '../assets/4th-4.svg'
 
 const Forth = () => {
   return (
-    <div className='container mx-auto w-screen flex flex-row flex-wrap items-center justify-center gap-8 '>
+    <div className='container mx-auto w-screen flex flex-row flex-wrap items-center justify-center gap-8  '>
         <div className="img-1 flex flex-col items-center justify-center gap-4">
           <img className='w-10 text-sm' src={img1} alt="img" />
           <p className='text-blue-700 font-semibold underline '>Choose your Microsoft 365</p>
